@@ -1,6 +1,6 @@
 # Current Card Info
 
-Information on all currently available Injustice Arcade Cards. Barcodes on cards are in [Code 128](https://en.wikipedia.org/wiki/Code_128) format.
+Information on all currently available Minecraft Dungeons Arcade Cards. Barcodes on cards are in [Code 128](https://en.wikipedia.org/wiki/Code_128) format.
 
 |Card Number|Card Name                |Barcode Data|Barcode Image                                                                                                                              |
 |-----------|-------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------|
