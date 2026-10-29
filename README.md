@@ -86,8 +86,8 @@ Information on all currently available Minecraft Dungeons Arcade Cards. Barcodes
 | 80          | Archer's Armor            | b21h0000     | [![Card 80 Barcode](./barcode_images/080_Archer's_Armor_b21h0000.svg)](./barcode_images/080_Archer's_Armor_b21h0000.svg)                    |
 | 81          | Ghost Kingler             | b21i0000     | [![Card 81 Barcode](./barcode_images/081_Ghost_Kingler_b21i0000.svg)](./barcode_images/081_Ghost_Kingler_b21i0000.svg)                      |
 | 82          | Phantom Armor             | b21j0000     | [![Card 82 Barcode](./barcode_images/082_Phantom_Armor_b21j0000.svg)](./barcode_images/082_Phantom_Armor_b21j0000.svg)                      |
-| 83          | Stalwart Armor            | b31m0000     | [![Card 83 Barcode](./barcode_images/083_Stalwart_Armor_b31m0000.svg)](./barcode_images/083_Stalwart_Armor_b31m0000.svg)                    |
-| 84          | Fox Armor                 | b31m0000     | [![Card 84 Barcode](./barcode_images/084_Fox_Armor_b31m0000.svg)](./barcode_images/084_Fox_Armor_b31m0000.svg)                              |
+| 83          | Stalwart Armor            | b31k0000     | [![Card 83 Barcode](./barcode_images/083_Stalwart_Armor_b31k0000.svg)](./barcode_images/083_Stalwart_Armor_b31k0000.svg)                    |
+| 84          | Fox Armor                 | b31l0000     | [![Card 84 Barcode](./barcode_images/084_Fox_Armor_b31l0000.svg)](./barcode_images/084_Fox_Armor_b31l0000.svg)                              |
 | 85          | The Archeologist          | b31m0000     | [![Card 85 Barcode](./barcode_images/085_The_Archeologist_b31m0000.svg)](./barcode_images/085_The_Archeologist_b31m0000.svg)                |
 | 86          | Baako                     | b31n0000     | [![Card 86 Barcode](./barcode_images/086_Baako_b31n0000.svg)](./barcode_images/086_Baako_b31n0000.svg)                                      |
 | 87          | Dani                      | b31o0000     | [![Card 87 Barcode](./barcode_images/087_Dani_b31o0000.svg)](./barcode_images/087_Dani_b31o0000.svg)                                        |
